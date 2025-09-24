@@ -1,4 +1,4 @@
-public class day2 {
+public class day002 {
     public static void main(String[] args) {
         System.out.println("Days 2");
         System.out.print("Nama Saya : ");
@@ -7,3 +7,4 @@ public class day2 {
         System.out.printf("%nNilai : %.2f", nilai);
     }
 }
+
