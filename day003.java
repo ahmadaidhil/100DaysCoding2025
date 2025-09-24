@@ -1,4 +1,4 @@
-public class day3 {
+public class day003 {
     public static void main(String[] args) {
         System.out.println("latihan Komentar");
         // System.out.println("Ini komen satu baris");
@@ -8,3 +8,4 @@ public class day3 {
         System.out.println("Ini komen banyak baris");*/
     }
 }
+
