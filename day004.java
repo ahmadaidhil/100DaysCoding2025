@@ -1,4 +1,4 @@
-public class day4 {
+public class day004 {
     public static void main(String[] args) {
         // Baris baru
         System.out.println("Halo\nDunia");
@@ -13,3 +13,4 @@ public class day4 {
         System.out.println("Folder ada di C:\\Users\\Achmad");
     }
 }
+
