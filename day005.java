@@ -1,4 +1,4 @@
-public class day5 {
+public class day005 {
     public static void main(String[] args) {
         byte a = 50; //-128 s/d 127
         short b = 5000; //-32,768 s/d 32,767
@@ -11,3 +11,4 @@ public class day5 {
         System.out.println("Long\t: " + d);
     }
 }
+
