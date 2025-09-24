@@ -1,4 +1,4 @@
-public class day7 {
+public class day007 {
     public static void main(String[] args) {
         char predikat = 'A';
         System.out.println("Predikat DDP : " + predikat);
@@ -6,3 +6,4 @@ public class day7 {
         System.out.println("Lulus(true/false) : " + status);
     }
 }
+
