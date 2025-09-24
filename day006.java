@@ -1,4 +1,4 @@
-public class day6 {
+public class day006 {
     public static void main(String[] args) {
         float tinggiBadan = 162.5f;
         double beratBadan = 52.3;
@@ -7,3 +7,4 @@ public class day6 {
         System.out.println("Berat badan: " + beratBadan);
     }
 }
+
