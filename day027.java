@@ -4,7 +4,6 @@ public class day027 {
         Scanner input = new Scanner(System.in);
         int p = input.nextInt();
         int l = input.nextInt();
-        
         System.out.println((p * l) / 4);
     }
 }
