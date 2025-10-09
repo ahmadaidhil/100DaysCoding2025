@@ -3,5 +3,6 @@ public class day031{
       int a = 10;
       int b = 12;
       System.out.println((a < b) && (b > a));
+      
    }
 }
