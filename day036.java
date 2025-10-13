@@ -24,6 +24,7 @@ public class day036 {
             status = "tidak";
         } else {
             System.out.println("Input tidak valid");
+            System.exit(0);
         }
 
         System.out.println("=== Rincian Belanjaan ===");
