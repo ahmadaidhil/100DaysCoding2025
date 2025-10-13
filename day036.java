@@ -16,7 +16,7 @@ public class day036 {
             }
             status = "ya";
         } else if (member == 'N' || member == 'n') {
-            if (total > 500000) {
+            if (total >= 500000) {
                 diskon = 0.1;
             } else {
                 diskon = 0;
