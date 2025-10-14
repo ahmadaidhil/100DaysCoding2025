@@ -4,10 +4,14 @@ public class day037 {
         Scanner input = new Scanner(System.in);
         int angka = input.nextInt();
 
-        if (angka % 2 == 0) {
-            System.out.println("Genap");
+        if (angka != 0) {
+            if (angka % 2 == 0) {
+                System.out.println("Genap");
+            } else {
+                System.out.println("Ganjil");
+            }
         } else {
-            System.out.println("Ganjil");
+            System.out.println("Nol");
         }
     }
 }
