@@ -27,6 +27,7 @@ public class day048 {
                 System.out.println("Hasil: " + (angka1 % angka2));
                 break;
             default:
+                System.out.println("Pilihan Salah!!!");
                 break;
         }
     }
