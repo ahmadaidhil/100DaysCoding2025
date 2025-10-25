@@ -4,11 +4,11 @@ public class day048 {
         Scanner input = new Scanner(System.in);
 
         System.out.print("Masukkan Angka Pertama: ");
-        double angka1 = input.nextInt();
+        double angka1 = input.nextDouble();
         System.out.print("Pilih Operasi (+ - * / %): ");
         char operasi = input.next().charAt(0);
         System.out.print("Masukkan Angka Kedua: ");
-        double angka2 = input.nextInt();
+        double angka2 = input.nextDouble();
 
         switch (operasi) {
             case '+':
