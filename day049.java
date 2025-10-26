@@ -2,7 +2,6 @@ import java.util.Scanner;
 public class day049 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-
         System.out.print("Masukkan Nilai: ");
         int nilai = input.nextInt();
         
