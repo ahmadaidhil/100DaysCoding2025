@@ -4,6 +4,8 @@ public class day054 {
             if (i == 50) {
                 continue;
             }
+            System.out.println(i);
         }
+        System.out.println("selesai");
     }
 }
