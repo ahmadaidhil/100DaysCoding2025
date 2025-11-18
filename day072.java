@@ -6,7 +6,7 @@ public class day072 {
         int n = input.nextInt();
 
         for (int i = n; i >= 1; i--) {
-            for (int s = 0; s < n - i; s++) {
+            for (int j = 0; j < n - i; j++) {
                 System.out.print(" ");
             }
             for (int j = 1; j <= i; j++) {
