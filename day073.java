@@ -4,7 +4,7 @@ public class day073 {
         Scanner input = new Scanner(System.in);
 
         int hasil = 0;
-        for (int i = 1; i <= 100; i++) {
+        while(true){
             System.out.print("Masukkan angka : ");
             int angka = input.nextInt();
             if (angka < 0) {
